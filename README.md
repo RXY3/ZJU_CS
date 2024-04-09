@@ -1,19 +1,19 @@
 # ZJU_CS
 浙江大学计算机学院课程资料整理
 ## 课程列表
-- [数字逻辑设计](./数字逻辑设计)
+- [数字逻辑设计](./数字逻辑设计课设)
 - [数据结构基础](./FDS)
   
 ## FDS
 ### Project 1
-- [Project 1](./FDS/Project1)
+- [Project 1](./FDS/PROGRAM1)
 #### 概述
 本项目是在《算法设计与分析》课程中完成的一个实践项目，旨在探索并分析三种不同算法解决最大子矩阵和问题的效率。这些算法的时间复杂度分别为O(N^6)、O(N^3)和O(N^4)。本报告的目标是理解这些算法之间的效率权衡以及它们在不同矩阵大小下的表现。
 ### Project 2
-- [Project 2](./FDS/Project2)
+- [Project 2](./FDS/PROGRAM2)
 本项目旨在使用BST实现一个简单的求偏导数的计算器。用户可以输入一个多项式，然后计算其偏导数。项目使用C语言编程，并进行了简单的测试和性能分析。
 ### Project 3
-- [Project 3](./FDS/Project3)
+- [Project 3](./FDS/PROGRAM3)
 本项目旨在实现简单的次短路径算法。项目使用C语言编程，使用Dijkstra算法计算出次短路径。项目还包括了简单的测试和性能分析。
 ## 数字逻辑设计课设-小恐龙跳跃障碍及记分游戏实现 (Dino Jump and Score Game)
 
@@ -35,24 +35,22 @@
 ### 安装和使用
 1. 克隆本项目到本地：
    ```
-   git clone https://github.com/your-username/dino-game.git
+   git clone git@github.com:RXY3/ZJU_CS.git
    ```
 2. 打开ISE 14.7工程，导入项目文件。
 3. 将项目配置到Kitnex7开发板上运行。
+4. 也可直接下载项目中的zip文件，解压后将coe文件导入到ISE工程中，然后配置到开发板上运行。
 
 ### 目录结构
 - `/docs` - 项目文档，包括实验报告和设计说明。
 - `/vga_module` - VGA显示模块的源代码。
 - `/game_logic` - 游戏逻辑的源代码，包括运动、碰撞检测和分数计算。
 - `/coe_files` - 包含游戏中使用的所有COE文件。
-- `/LICENSE` - 项目许可证。
 - `README.md` - 项目说明文件。
 
 ### 贡献
 我们欢迎任何形式的贡献！如果您有好的想法或改进，请提交issue或pull request。
 
-### 许可证
-本项目采用MIT许可证，详情见LICENSE文件。
 
 ### 致谢
 感谢浙江大学提供的实验平台和资源，以及所有为本项目提供帮助的人。
