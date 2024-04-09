@@ -1,0 +1,17 @@
+# Output products list for <dino>
+_xmsgs/pn_parser.xmsgs
+dino/blk_mem_gen_v7_3_readme.txt
+dino/doc/blk_mem_gen_v7_3_vinfo.html
+dino/doc/pg058-blk-mem-gen.pdf
+dino.asy
+dino.gise
+dino.mif
+dino.ngc
+dino.sym
+dino.v
+dino.veo
+dino.xco
+dino.xise
+dino_flist.txt
+dino_xmdf.tcl
+summary.log

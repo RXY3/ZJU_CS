@@ -1,0 +1,4 @@
+verilog work "jump.v"
+verilog work "jump_sim.v"
+verilog work "ipcore_dir/rgb/example_design/rgb_exdes.v"
+verilog work "C:/XilinxISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

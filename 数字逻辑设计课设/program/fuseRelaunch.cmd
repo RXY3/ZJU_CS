@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/vga(1)/jump_sim_isim_beh.exe" -prj "D:/vga(1)/jump_sim_beh.prj" "work.jump_sim" "work.glbl" 

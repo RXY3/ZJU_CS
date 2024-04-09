@@ -1,0 +1,95 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\XilinxISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc K114.ucf -bm
+playground.bmm -p xc7k160t-ffg676-1 Top.ngc Top.ngd
+
+Reading NGO file "F:/yes/program/Top.ngc" ...
+Loading design module "ipcore_dir/start.ngc"...
+Loading design module "ipcore_dir/playground.ngc"...
+Loading design module "ipcore_dir/barrier.ngc"...
+Loading design module "ipcore_dir/dino.ngc"...
+Loading design module "ipcore_dir/cloud.ngc"...
+Loading design module "ipcore_dir/fruit.ngc"...
+Loading design module "ipcore_dir/gameover0.ngc"...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file "K114.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Processing BMM file "playground.bmm" ...
+
+WARNING::53 - File 'playground.bmm' is empty or has no BMM content.
+
+
+Checking expanded design ...
+WARNING:NgdBuild:452 - logical net 'start/wea<0>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<11>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<10>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<9>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<8>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<7>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<6>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<5>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<4>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<3>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<2>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<1>' has no driver
+WARNING:NgdBuild:452 - logical net 'start/dina<0>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/wea<0>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<15>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<14>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<13>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<12>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<11>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<10>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<9>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<8>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<7>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<6>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<5>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<4>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<3>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<2>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<1>' has no driver
+WARNING:NgdBuild:452 - logical net 'fruit/dina<0>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/wea<0>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<15>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<14>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<13>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<12>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<11>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<10>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<9>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<8>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<7>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<6>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<5>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<4>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<3>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<2>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<1>' has no driver
+WARNING:NgdBuild:452 - logical net 'gameover0/dina<0>' has no driver
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:  47
+
+Total memory usage is 4528032 kilobytes
+
+Writing NGD file "Top.ngd" ...
+Total REAL time to NGDBUILD completion:  37 sec
+Total CPU time to NGDBUILD completion:   25 sec
+
+Writing NGDBUILD log file "Top.bld"...

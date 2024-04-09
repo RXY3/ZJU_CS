@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj vga -o D:/vga(1)/jump.tfi -lib work D:/vga(1)//jump.v -module jump -template C:/XilinxISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

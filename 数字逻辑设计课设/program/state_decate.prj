@@ -1,0 +1,3 @@
+verilog work "pbdebounce.v"
+verilog work "state_decate.v"
+verilog work "ipcore_dir/rgb/example_design/rgb_exdes.v"

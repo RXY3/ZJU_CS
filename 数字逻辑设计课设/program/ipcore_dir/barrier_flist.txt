@@ -1,0 +1,17 @@
+# Output products list for <barrier>
+_xmsgs/pn_parser.xmsgs
+barrier/blk_mem_gen_v7_3_readme.txt
+barrier/doc/blk_mem_gen_v7_3_vinfo.html
+barrier/doc/pg058-blk-mem-gen.pdf
+barrier.asy
+barrier.gise
+barrier.mif
+barrier.ngc
+barrier.sym
+barrier.v
+barrier.veo
+barrier.xco
+barrier.xise
+barrier_flist.txt
+barrier_xmdf.tcl
+summary.log

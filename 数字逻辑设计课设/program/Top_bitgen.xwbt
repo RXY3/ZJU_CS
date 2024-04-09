@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=F:\yes\program\Top.ncd
+OUTFILE=F:\yes\program\Top.bit
+FAMILY=Kintex7
+PART=xc7k160t-1ffg676
+WORKINGDIR=F:\yes\program
+LICENSE=WebPack
+USER_INFO=_

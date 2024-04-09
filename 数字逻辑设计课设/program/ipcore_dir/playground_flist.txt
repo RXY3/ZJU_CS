@@ -1,0 +1,17 @@
+# Output products list for <playground>
+_xmsgs/pn_parser.xmsgs
+playground/blk_mem_gen_v7_3_readme.txt
+playground/doc/blk_mem_gen_v7_3_vinfo.html
+playground/doc/pg058-blk-mem-gen.pdf
+playground.asy
+playground.gise
+playground.mif
+playground.ngc
+playground.sym
+playground.v
+playground.veo
+playground.xco
+playground.xise
+playground_flist.txt
+playground_xmdf.tcl
+summary.log
